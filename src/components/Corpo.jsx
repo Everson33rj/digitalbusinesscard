@@ -6,7 +6,7 @@
 import imagemPerfil from '../assets/images/autor.png'
 import { CorpoStyled } from './CorpoStyled'
 import { useEffect, useRef, useState } from 'react';
-import SomTcld from '../assets/sounds/teclado.mp3'
+import SomTcld from '../assets/sounds/teclado.wav'
 
 function Corpo(props){     
 
