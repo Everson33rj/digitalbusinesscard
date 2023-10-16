@@ -56,7 +56,9 @@ export const CorpoStyled = styled.div`
 .main{
     display: flex;
     justify-content: center;
-    padding-top: 30px;
+    position: relative;
+    height: 85%;
+    padding-top: 20px;
 }
 
 .conteudo{
@@ -65,6 +67,7 @@ export const CorpoStyled = styled.div`
     margin-left: auto;
     margin-right: auto;
     align-items: center;
+    height: 100%;
 }
 
 .imagem1{
@@ -85,6 +88,11 @@ export const CorpoStyled = styled.div`
     padding-bottom: 30px;
     width: 70%;
     text-align: center;
+}
+
+.contatos{
+    position: absolute;
+    bottom: 0;
 }
 
 .contatos a{
