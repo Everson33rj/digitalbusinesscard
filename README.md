@@ -1,4 +1,4 @@
-Site de exwmplo:
+Site de exemplo:
 https://everson33rj.github.io/digitalbusinesscard/
 
 
